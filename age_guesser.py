@@ -7,7 +7,6 @@ def guess_age():
     lowest = 15
     highest = 100
     
-    # Initial guess
     age = random.randint(lowest, highest)
     
     answered_correctly = False
@@ -18,14 +17,12 @@ def guess_age():
         if feedback == 'y':
             answered_correctly = True
         elif feedback == 'h':
-            # You said I'm too high, so the new maximum is one less than my guess
             highest = age - 1
             if lowest > highest:
                 print("Wait... something doesn't add up. Are you tricking the psychic?")
                 break
             age = random.randint(lowest, highest)
         elif feedback == 'l':
-            # You said I'm too low, so the new minimum is one more than my guess
             lowest = age + 1
             if lowest > highest:
                 print("Hmm, the spirits are confused. Your answers are contradicting each other!")
