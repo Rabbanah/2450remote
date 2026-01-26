@@ -14,6 +14,10 @@ def guess_age():
         if answer == 'y':
             print(f"Hooray! I knew it! {name} is {age} years old.")
             return
+
+        if answer == 'n':
+            change = input(f"Are you older or younger than {age}? (o/y): ").lower()
+            if
             
         else:
             print("Rats.")
