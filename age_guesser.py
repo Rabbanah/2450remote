@@ -6,29 +6,36 @@ def guess_age():
     name = input("First, what is your name? ")
     lowest = 15
     highest = 100
-    possible_ages = list(range(lowest, highest))
-    shuff = random.shuffle(possible_ages)
-    age = shuff[0]
     
-    answer = 'n'
-    while answer != 'y':
-        change = input(f"Are you older or younger than {age}? (o/y): ").lower()
-        if change == 'o':
-            possible_ages = list(range(age, highest))
-            youngest = age
-            shuff = random.shuffle(possible_ages)
-            age = shuff[0]
-            answer = input(f"Are you {age} years old? (y/n): ").lower()
-        elif change == 'y':
-            possible_ages = list(range(lowest, age))
-            highest = age
-            shuff = random.shuffle(possible_ages)
-            age = shuff[0]
-            answer = input(f"Are you {age} years old? (y/n): ").lower()
+    # Initial guess
+    age = random.randint(lowest, highest)
+    
+    answered_correctly = False
+    while not answered_correctly:
+        print(f"\nMy psychic senses suggest you are... {age}?")
+        feedback = input("Am I right? (y), or am I too low (l), or too high (h)? ").lower()
 
-    if answer == 'y':
-        print(f"Hooray! I knew it! {name} is {age} years old.")
-        return
+        if feedback == 'y':
+            answered_correctly = True
+        elif feedback == 'h':
+            # You said I'm too high, so the new maximum is one less than my guess
+            highest = age - 1
+            if lowest > highest:
+                print("Wait... something doesn't add up. Are you tricking the psychic?")
+                break
+            age = random.randint(lowest, highest)
+        elif feedback == 'l':
+            # You said I'm too low, so the new minimum is one more than my guess
+            lowest = age + 1
+            if lowest > highest:
+                print("Hmm, the spirits are confused. Your answers are contradicting each other!")
+                break
+            age = random.randint(lowest, highest)
+        else:
+            print("Please enter 'y', 'l', or 'h'.")
+
+    if answered_correctly:
+        print(f"\nHooray! I knew it! {name} is {age} years old.")
 
 if __name__ == "__main__":
     guess_age()
