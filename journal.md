@@ -17,3 +17,13 @@ Date: 2.8.26
 	Using it in a lot of classes. Note to self: Need to call mom tomorrow, it's been a couple weeks and she's expecting
 	a call!
 
+Date: 2.25.26
+	Not keeping up with this like I should be, a lot like my *actual* journal. My brother's birthday was 
+	yesterday. Other brother got a job, he was stressing about that. Good stuff. I probably shouldn't use
+	this as an actual journal. I'm learning a bit more about software engineering. FamilySearch is offering summer-
+	time internships for CS and software engineering related fields, that's pretty cool. Had to get up in front
+	of class yesterday and present our project, hoo boy I didn't like that. Never liked presenting stuff, too
+	socially awkward, or so I fancied myself. Awkward or inept or just antisocial. Always hated giving talks in 
+	church, too. Bumbled through it okay though. My teammates carried me. I need to look into Flask more, I feel
+	like I don't really understand it like I should. Complicated stuff, at least for me. 
+	
