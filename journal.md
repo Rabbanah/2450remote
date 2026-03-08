@@ -27,3 +27,8 @@ Date: 2.25.26
 	church, too. Bumbled through it okay though. My teammates carried me. I need to look into Flask more, I feel
 	like I don't really understand it like I should. Complicated stuff, at least for me. 
 	
+Date: 3.7.26
+	Started working through the issues this week, doing that duo thing. Paired programming, iirc. Seems like
+	it's a technique that could prove helpful. I think out our 5 team members, only one of us has any experience
+	or relevant knowledge of databases. We'll be reliant on him going forward, I imagine. I think he graduates this
+	semester, smart dude. Good for him. Anyway that's about it for this week. 
