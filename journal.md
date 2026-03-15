@@ -32,3 +32,6 @@ Date: 3.7.26
 	it's a technique that could prove helpful. I think out our 5 team members, only one of us has any experience
 	or relevant knowledge of databases. We'll be reliant on him going forward, I imagine. I think he graduates this
 	semester, smart dude. Good for him. Anyway that's about it for this week. 
+
+Date: 3.15.26
+	Spring break is over. Didn't do much this week honestly, not much to write about. Played a lot of Minecraft.
