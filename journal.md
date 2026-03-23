@@ -35,3 +35,7 @@ Date: 3.7.26
 
 Date: 3.15.26
 	Spring break is over. Didn't do much this week honestly, not much to write about. Played a lot of Minecraft.
+
+Date: 3.22.26
+	Not much to report on this week. Learned a little more about stuff. Idk. Haven't done much in this class, 
+	been forcussed on math this past week, had a big test.
