@@ -39,3 +39,8 @@ Date: 3.15.26
 Date: 3.22.26
 	Not much to report on this week. Learned a little more about stuff. Idk. Haven't done much in this class, 
 	been forcussed on math this past week, had a big test.
+
+Date: 3.29.26
+	Same this week. Did the Solenium stuff, interesting. Had a hard time getting it to work though. I feel kinda
+	bad, I think my teammates are doing more than I am on our project, but they are more knowledgeable and 
+	capable than I am. 
