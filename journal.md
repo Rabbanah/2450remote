@@ -44,3 +44,9 @@ Date: 3.29.26
 	Same this week. Did the Solenium stuff, interesting. Had a hard time getting it to work though. I feel kinda
 	bad, I think my teammates are doing more than I am on our project, but they are more knowledgeable and 
 	capable than I am. 
+
+Date: 4.13.26
+	I didn't make an entry last week; I was too caught up in studying for a math test that week. Math is kinda
+	kicking my butt around now. Fun times. On this, I'm working on adding polls and an inventory to our 
+	project. Had a weird issue when I was working on it before, but by deleting everything and starting over
+	from scratch the problem has miraculously disappeared. Thank goodness! Sometimes you just gotta do that.
