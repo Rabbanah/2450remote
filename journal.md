@@ -50,3 +50,8 @@ Date: 4.13.26
 	kicking my butt around now. Fun times. On this, I'm working on adding polls and an inventory to our 
 	project. Had a weird issue when I was working on it before, but by deleting everything and starting over
 	from scratch the problem has miraculously disappeared. Thank goodness! Sometimes you just gotta do that.
+
+Date: 4.20.26
+	We are wrapping up our final project. I think it's in a good place, looks good and works good. Very grateful
+	for my teammate's knowledge and skills. I think this will be the last regular week of school, or maybe the 
+	second to last.. Either way, things are coming to a head. 
