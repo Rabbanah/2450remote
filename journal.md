@@ -55,3 +55,7 @@ Date: 4.20.26
 	We are wrapping up our final project. I think it's in a good place, looks good and works good. Very grateful
 	for my teammate's knowledge and skills. I think this will be the last regular week of school, or maybe the 
 	second to last.. Either way, things are coming to a head. 
+
+Date: 4.26.26
+	Finals are starting. Our project is as good as it will get. We put together a PpowerPoint. I'll be presenting
+	the slide about features we implemented. 
